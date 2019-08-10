@@ -1,3 +1,7 @@
+array = [1,2,3]
 def square_array(array)
-  # your code here
+  while square_array[array]do
+    puts square_array[array]
+    array += *2
+  end
 end
