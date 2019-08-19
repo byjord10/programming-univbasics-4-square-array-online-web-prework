@@ -7,7 +7,7 @@ def square_array(array)
     put
 
 while array[square_array] do
-  puts array [aquare_array]
-  aquare_array += 
+  puts array [square_array]
+  square_array +=
 end
 end
